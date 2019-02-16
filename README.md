@@ -1,1 +1,5 @@
-# nauka-gita-2 zkodillą :)
+# nauka-gita-2 z kodillą :)
+
+Hello world!
+
+
